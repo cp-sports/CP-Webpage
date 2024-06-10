@@ -3,7 +3,9 @@
 }
 .cp-title{
   width: 50%;
+  margin-right: 0;
 }
 .cp-img{
   width: 50%;
+  margin-left: 0;
 }
